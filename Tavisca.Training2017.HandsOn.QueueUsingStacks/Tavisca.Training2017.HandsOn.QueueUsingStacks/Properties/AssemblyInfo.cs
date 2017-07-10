@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Tavisca.Training2017.HandsOn.Stack")]
+[assembly: AssemblyTitle("Tavisca.Training2017.HandsOn.QueueUsingStacks")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Microsoft")]
-[assembly: AssemblyProduct("Tavisca.Training2017.HandsOn.Stack")]
+[assembly: AssemblyProduct("Tavisca.Training2017.HandsOn.QueueUsingStacks")]
 [assembly: AssemblyCopyright("Copyright © Microsoft 2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("f68d4c3b-bfe0-40d2-8934-d7779e4da30f")]
+[assembly: Guid("9f445eae-de15-4350-a5b9-f71450a3d2f1")]
 
 // Version information for an assembly consists of the following four values:
 //
