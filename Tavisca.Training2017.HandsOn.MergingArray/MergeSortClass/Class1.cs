@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MergeSortClass
 {
-    public class MergeSortClass
+    public class MergeSort
     {
         public void Merge(int[] array, int lower_bound, int middle, int upper_bound)
         {

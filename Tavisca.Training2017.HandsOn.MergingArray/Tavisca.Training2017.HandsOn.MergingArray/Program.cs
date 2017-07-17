@@ -10,7 +10,7 @@ namespace Tavisca.Training2017.HandsOn.MergingArray
     {
         static void Main(string[] args)
         {
-            MergeSortClass mergeSortClass = new MergeSortClass();
+            MergeSort mergeSortClass = new MergeSort();
             Console.WriteLine("Enter Number of Arrays ");
             int number_of_arrays = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Enter the Number of Elements in Every array");
